@@ -1,0 +1,1 @@
+https://app.snowflake.com/prod3.us-west-2.aws 
